@@ -1,0 +1,32 @@
+
+.first{
+    display: flex;
+    background-color: aqua;
+    justify-content: space-evenly;
+    margin: 20px 500px;
+}
+.sec{
+    display: flex;
+    background: plum;
+    justify-content: space-evenly;
+    margin: 20px 500px;
+
+}
+.thir{
+    display: flex;
+    background: bisque;
+    justify-content: space-evenly;
+    margin: 20px 500px;
+}
+img{
+    width: 200px;
+}
+#Git{
+    text-align: center;
+    font-size: 49px;
+    color: darkslategray;
+}
+#words{
+    justify-content: center;
+    text-align: center;
+}
