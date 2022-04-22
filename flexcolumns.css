@@ -1,0 +1,29 @@
+.col{
+    border: 15px black;
+    padding: 50px;
+    margin: 20px;
+    flex: 1;
+    background-color: blue;
+    display: flex;
+}
+.col-2{
+    width: 300px;
+    border: 15px black;
+    padding: 50px;
+    margin: 20px;
+    flex: 2;
+    display: inline-block;
+    background-color: blue;
+}
+.col-3{
+    width: 300px;
+    border: 15px black;
+    padding: 50px;
+    margin: 20px;
+    flex: 3;
+    display: inline-block;
+    background-color: blue;
+}
+.row{
+    display: flex;
+}
